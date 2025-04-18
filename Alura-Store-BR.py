@@ -36,10 +36,10 @@ revenue_loja3 = loja3['Preço'].sum()
 revenue_loja4 = loja4['Preço'].sum()
 
 # Imprime o faturamento para cada loja
-print(f"Loja 1 Revenue: {revenue_loja1}")
-print(f"Loja 2 Revenue: {revenue_loja2}")
-print(f"Loja 3 Revenue: {revenue_loja3}")
-print(f"Loja 4 Revenue: {revenue_loja4}")
+print(f"Loja 1 Faturamento: {revenue_loja1}")
+print(f"Loja 2 Faturamento: {revenue_loja2}")
+print(f"Loja 3 Faturamento: {revenue_loja3}")
+print(f"Loja 4 Faturamento: {revenue_loja4}")
 
 # Cria um gráfico de barras
 revenue_data = {
@@ -79,18 +79,18 @@ average_rating_loja3 = loja3['Avaliação da compra'].mean()
 average_rating_loja4 = loja4['Avaliação da compra'].mean()
 
 # Imprime a média
-print(f"Loja 1 Average Rating: {average_rating_loja1}")
-print(f"Loja 2 Average Rating: {average_rating_loja2}")
-print(f"Loja 3 Average Rating: {average_rating_loja3}")
-print(f"Loja 4 Average Rating: {average_rating_loja4}")
+print(f"Loja 1 Avaliação Média: {average_rating_loja1}")
+print(f"Loja 2 Avaliação Média: {average_rating_loja2}")
+print(f"Loja 3 Avaliação Média: {average_rating_loja3}")
+print(f"Loja 4 Avaliação Média: {average_rating_loja4}")
 
 # Calcula a avalialçao geral de todas as lojas
 overall_average_rating = (average_rating_loja1 + average_rating_loja2 + average_rating_loja3 + average_rating_loja4) / 4
 
-print(f"Overall Average Rating: {overall_average_rating}")
+print(f"Avaliação Média Geral: {overall_average_rating}")
 
 overall_average_rating_alt = all_stores['Avaliação da compra'].mean()
-print(f"Overall Average Rating (Alternative): {overall_average_rating_alt}")
+print(f"Avaliação Média Geral (Alternativa): {overall_average_rating_alt}")
 
 """ 4. Produtos Mais e Menos Vendidos """
 # Mostra quais foram os produtos mais e menos vendidos

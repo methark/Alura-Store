@@ -1,0 +1,25 @@
+Este relatório tem como objetivo analisar o desempenho de quatro lojas (Loja 1, Loja 2, Loja 3 e Loja 4) com base em diversos fatores, como faturamento, vendas por categoria, avaliações de clientes, produtos mais vendidos e frete médio. O objetivo final é recomendar ao Senhor João qual loja deve ser vendida, considerando os pontos fortes e fracos de cada uma.
+
+Desenvolvimento:
+1. Faturamento Total:
+A análise do faturamento total de cada loja revelou que a Loja 4 apresenta o menor faturamento entre as quatro lojas. As Lojas 1 e 2 lideram em faturamento, com a Loja 3 ocupando uma posição intermediária.
+
+2. Vendas por Categoria:
+A categoria "Brinquedos" é a que mais contribui para o faturamento, seguida por "Bebê" e "Construção". A categoria "Ferramentas" apresenta a menor contribuição para as vendas.
+
+3. Média das Avaliações de Clientes:
+As Lojas 1, 2 e 3 possuem médias de avaliação similares, com a Loja 4 apresentando uma avaliação média ligeiramente inferior. Isso indica que a Loja 4 pode ter um nível de satisfação do cliente um pouco menor em comparação com as outras lojas.
+
+4. Produtos Mais e Menos Vendidos:
+Os produtos mais vendidos variam entre as lojas, mas alguns produtos, como "LEGO Star Wars" e "Barbie Fashionista", destacam-se entre os mais vendidos em geral. Os produtos menos vendidos também variam, mas geralmente são produtos com menor demanda ou preços mais elevados.
+
+5. Frete Médio:
+A Loja 4 apresenta o maior frete médio, o que pode ser um fator que impacta negativamente suas vendas e a satisfação do cliente. As demais lojas possuem fretes médios similares.
+
+Conclusão:
+Com base na análise dos fatores mencionados, recomenda-se que o Senhor João venda a Loja 4.
+
+Justificativa:
+A Loja 4 apresenta o menor faturamento entre as quatro lojas, além de ter a menor média de avaliação dos clientes e o maior frete médio. Esses fatores indicam que a loja apresenta um desempenho inferior em comparação com as demais. Embora a Loja 4 possa ter alguns pontos fortes, como a venda de certos produtos específicos, os seus pontos fracos, como o baixo faturamento, a menor satisfação do cliente e o alto frete, superam seus benefícios, tornando-a a candidata ideal para venda.
+
+Vender a Loja 4 permitiria ao Senhor João concentrar seus esforços e recursos nas lojas mais lucrativas e com maior potencial de crescimento, como as Lojas 1 e 2, ou até mesmo na Loja 3, que possui um desempenho intermediário.
